@@ -1,0 +1,16 @@
+[interpreter]
+Ruby
+Python
+Perl
+R
+
+[compiler]
+C
+C++
+Go
+
+[assembler]
+Z80
+6809
+6502
+68000
