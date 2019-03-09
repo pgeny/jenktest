@@ -12,3 +12,5 @@ ls *.doc > /dev/null 2>&1
 if [ $? -eq 0 ]; then
     wc *.doc >> $FILE
 fi
+
+cat book.txt
