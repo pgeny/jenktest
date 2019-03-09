@@ -3,11 +3,17 @@ Ruby
 Python
 Perl
 R
+LISP
+JavaScript
 
 [compiler]
 C
 C++
 Go
+Java
+COBOL
+Fortran
+
 
 [assembler]
 Z80
