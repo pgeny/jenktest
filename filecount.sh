@@ -1,3 +1,5 @@
 #!/bin/bash
 
-wc *.txt > fcounts.data
+FILE=fcounts.data
+date > $FILE
+wc *.txt >> $FILE
