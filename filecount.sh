@@ -2,5 +2,13 @@
 
 FILE=fcounts.data
 date > $FILE
-wc *.txt >> $FILE
-wc *.doc >> $FILE
+
+ls *.txt > /dev/null 2>&1
+if [ $? -eq 0 ]; then
+    wc *.txt >> $FILE
+fi
+
+ls *.doc > /dev/null 2>&1
+if [ $? -eq 0 ]; then
+    wc *.doc >> $FILE
+fi
