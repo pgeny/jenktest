@@ -16,3 +16,4 @@ Amiga 500
 X68030
 Macintosh SE/30
 Macintosh IIci
+Macintosh IIcx
