@@ -3,11 +3,15 @@ PC-8801
 X1
 MZ-2500
 FM-7
+PC-8001
 
 [16bit]
 PC-100
 PC-9801
 X68000
+Amiga 500
+ぴゅう太
 
 [32bit]
 X68030
+Macintosh SE/30
