@@ -17,3 +17,6 @@ X68030
 Macintosh SE/30
 Macintosh IIci
 Macintosh IIcx
+iMac
+iPad
+MacBook
